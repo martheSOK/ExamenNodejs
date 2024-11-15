@@ -1,0 +1,107 @@
+[
+  {
+    "title": "La Nuit étoilée",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "description": "Un paysage de nuit avec des étoiles lumineuses, peint par van Gogh.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "David",
+    "artist": "Michel-Ange",
+    "year": 1504,
+    "description": "Sculpture en marbre représentant David, un héros biblique.",
+    "type": "SCULPTURE"
+  },
+  {
+    "title": "Le Penseur",
+    "artist": "Auguste Rodin",
+    "year": 1880,
+    "description": "Une sculpture de bronze d'un homme en méditation.",
+    "type": "SCULPTURE"
+  },
+  {
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "description": "Un tableau représentant la souffrance des innocents pendant la guerre civile espagnole.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "La Joconde",
+    "artist": "Léonard de Vinci",
+    "year": 1503,
+    "description": "Un portrait de femme connu pour son sourire mystérieux.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "La Vénus de Milo",
+    "artist": "Inconnu",
+    "year": -100,
+    "description": "Une sculpture de marbre représentant la déesse Aphrodite.",
+    "type": "SCULPTURE"
+  },
+  {
+    "title": "Le Baiser",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "description": "Un tableau représentant un couple dans un baiser passionné, célèbre pour son utilisation de l'or.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "Le Cri",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "description": "Une œuvre d'art symbolisant l'angoisse et la souffrance humaine.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "La Création d'Adam",
+    "artist": "Michel-Ange",
+    "year": 1512,
+    "description": "Fresque de la chapelle Sixtine, représentant Dieu donnant la vie à Adam.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "Les Nympheas",
+    "artist": "Claude Monet",
+    "year": 1906,
+    "description": "Une série de peintures représentant des nénuphars dans l'étang du jardin de Monet.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "La Cène",
+    "artist": "Léonard de Vinci",
+    "year": 1495,
+    "description": "Peinture représentant le dernier repas de Jésus-Christ avec ses disciples.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "year": 1907,
+    "description": "Une œuvre révolutionnaire marquant les débuts du cubisme.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "Le Déjeuner sur l'herbe",
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "description": "Une œuvre audacieuse représentant une scène de déjeuner en plein air, avec des personnages nus.",
+    "type": "PENTURE"
+  },
+  {
+    "title": "L'Homme de Vitruve",
+    "artist": "Léonard de Vinci",
+    "year": 1490,
+    "description": "Dessin anatomique de l'homme, illustrant les proportions idéales selon Vitruve.",
+    "type": "DESSIN"
+  },
+  {
+    "title": "La Naissance de Vénus",
+    "artist": "Sandro Botticelli",
+    "year": 1484,
+    "description": "Peinture représentant la naissance de la déesse Vénus de la mer.",
+    "type": "PENTURE"
+  }
+]
