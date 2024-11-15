@@ -9,7 +9,7 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql"
+  provider = "sqlite"
   url      = env("DATABASE_URL")
 }
 
@@ -20,11 +20,6 @@ model Artwork{
   year Int?
   description String?
   file String?
-  type Type 
+  type String
 }
-enum Type{
-  PENTURE
-  SCULPTURE
-  DESSIN
-  ASCII_ART
-}
+
