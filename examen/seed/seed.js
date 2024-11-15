@@ -1,7 +1,6 @@
 import fs from "fs/promises";
 import {PrismaClient} from "@prisma/client";
-import fileurl from "node:url"
-import path from "node:path" 
+ 
 
 
 
